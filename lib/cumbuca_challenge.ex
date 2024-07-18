@@ -1,18 +1,5 @@
 defmodule CumbucaChallenge do
-  @moduledoc """
-  Documentation for `CumbucaChallenge`.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> CumbucaChallenge.hello()
-      :world
-
-  """
-  def hello do
-    :world
+  def execute do
+    IO.puts("Adicione os nomes dos reis e rainhas de Cumbúquia, cada um por linha e um de casa vez. Após adicionar o nome pressione Enter. Quando quiser finalizar, apenas pressione Enter em uma linha vazia.")
   end
 end
