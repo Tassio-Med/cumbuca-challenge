@@ -1,4 +1,8 @@
 defmodule CumbucaChallenge do
+  def main(_args) do
+    execute()
+  end
+
   def execute do
     IO.puts("Adicione os nomes dos reis e rainhas de Cumbúquia, cada um por linha e um de casa vez. \nApós adicionar o nome pressione Enter. \nQuando quiser finalizar, apenas pressione Enter em uma linha vazia. \nInsira os nomes abaixo:")
     monarchs = collect_monarchs()
