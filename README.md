@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/v2/resize:fill:72:72/1*g2kGTDFfC8sjJPg4ZObkGw.png" alt="Cumbuca Logo" width="100" style="border-radius: 50%;" >
+  <img src="https://cdn-images-1.medium.com/v2/resize:fill:72:72/1*g2kGTDFfC8sjJPg4ZObkGw.png" alt="Cumbuca Logo" width="100" style="border-radius: 50%" >
   <h1 align="center">Cumbuca Challenge</h1>
 </p>
 
